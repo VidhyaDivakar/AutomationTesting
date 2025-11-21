@@ -1,8 +1,8 @@
 // A simple Java program to print the Fibonacci series up to 7 terms
-package src.main.java.week1day2;
+package week1;
 
 //public is the access modifier. It allows the class to be accessible from other classes.
-public class FibonacciSeriesW1HA {
+public class FibonacciSeries {
     /**
      * The main method is the entry point of any Java program. Static means it can
      * be called without creating an instance of the class.
